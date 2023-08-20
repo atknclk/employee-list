@@ -1,0 +1,196 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "name": "Şeyma Yıldırım",
+      "department": "hardware",
+      "contact": {
+        "email": "seyma@gmail.com",
+        "phoneNumber": "5308838888"
+      },
+      "dateOfHire": "2023-08-21"
+    },
+    {
+      "id": 3,
+      "name": "Mehmet Yıldırım",
+      "department": "design",
+      "contact": {
+        "email": "atakan@pulpoar.com",
+        "phoneNumber": "5385174108"
+      },
+      "dateOfHire": "2023-08-22"
+    },
+    {
+      "id": 4,
+      "name": "Mehmet Yıldırım",
+      "department": "marketing",
+      "contact": {
+        "email": "atakan@pulpoar.com",
+        "phoneNumber": "5385174108"
+      },
+      "dateOfHire": "2023-08-23"
+    },
+    {
+      "id": 5,
+      "name": "Atakan Çelik",
+      "department": "software",
+      "contact": {
+        "email": "atakan@pulpoar.com",
+        "phoneNumber": "5385174108"
+      },
+      "dateOfHire": "2023-08-20"
+    },
+    {
+      "id": 6,
+      "name": "Şeyma Yıldırım",
+      "department": "hardware",
+      "contact": {
+        "email": "seyma@gmail.com",
+        "phoneNumber": "5308838888"
+      },
+      "dateOfHire": "2023-08-21"
+    },
+    {
+      "id": 7,
+      "name": "Mehmet Yıldırım",
+      "department": "design",
+      "contact": {
+        "email": "atakan@pulpoar.com",
+        "phoneNumber": "5385174108"
+      },
+      "dateOfHire": "2023-08-22"
+    },
+    {
+      "id": 8,
+      "name": "Mehmet Yıldırım",
+      "department": "marketing",
+      "contact": {
+        "email": "atakan@pulpoar.com",
+        "phoneNumber": "5385174108"
+      },
+      "dateOfHire": "2023-08-23"
+    },
+    {
+      "id": 9,
+      "name": "Atakan Çelik",
+      "department": "software",
+      "contact": {
+        "email": "atakan@pulpoar.com",
+        "phoneNumber": "5385174108"
+      },
+      "dateOfHire": "2023-08-20"
+    },
+    {
+      "id": 10,
+      "name": "Şeyma Yıldırım",
+      "department": "hardware",
+      "contact": {
+        "email": "seyma@gmail.com",
+        "phoneNumber": "5308838888"
+      },
+      "dateOfHire": "2023-08-21"
+    },
+    {
+      "id": 11,
+      "name": "Mehmet Yıldırım",
+      "department": "design",
+      "contact": {
+        "email": "atakan@pulpoar.com",
+        "phoneNumber": "5385174108"
+      },
+      "dateOfHire": "2023-08-22"
+    },
+    {
+      "id": 12,
+      "name": "Mehmet Yıldırım",
+      "department": "marketing",
+      "contact": {
+        "email": "atakan@pulpoar.com",
+        "phoneNumber": "5385174108"
+      },
+      "dateOfHire": "2023-08-23"
+    },
+    {
+      "id": 13,
+      "name": "Atakan Çelik",
+      "department": "software",
+      "contact": {
+        "email": "atakan@pulpoar.com",
+        "phoneNumber": "5385174108"
+      },
+      "dateOfHire": "2023-08-20"
+    },
+    {
+      "id": 14,
+      "name": "Şeyma Yıldırım",
+      "department": "hardware",
+      "contact": {
+        "email": "seyma@gmail.com",
+        "phoneNumber": "5308838888"
+      },
+      "dateOfHire": "2023-08-21"
+    },
+    {
+      "id": 16,
+      "name": "Mehmet Yıldırım",
+      "department": "marketing",
+      "contact": {
+        "email": "atakan@pulpoar.com",
+        "phoneNumber": "5385174108"
+      },
+      "dateOfHire": "2023-08-23"
+    }
+  ],
+  "departments": [
+    {
+      "id": 2,
+      "value": "hardware",
+      "label": "Hardware"
+    },
+    {
+      "id": 3,
+      "value": "design",
+      "label": "Design"
+    },
+    {
+      "id": 4,
+      "value": "marketing",
+      "label": "Marketing"
+    },
+    {
+      "id": 5,
+      "value": "sales",
+      "label": "Sales"
+    },
+    {
+      "id": 6,
+      "value": "hr",
+      "label": "HR"
+    },
+    {
+      "id": 7,
+      "value": "finance",
+      "label": "Finance"
+    },
+    {
+      "id": 8,
+      "value": "legal",
+      "label": "Legal"
+    },
+    {
+      "id": 9,
+      "value": "operations",
+      "label": "Operations"
+    },
+    {
+      "id": 10,
+      "value": "other",
+      "label": "Other"
+    },
+    {
+      "label": "Test",
+      "value": "test",
+      "id": 11
+    }
+  ]
+}

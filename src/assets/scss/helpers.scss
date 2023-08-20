@@ -1,0 +1,63 @@
+$breakpoint-tablet: 768px;
+$breakpoint-desktop: 1024px;
+$breakpoint-desktop-large: 1440px;
+
+$color-primary: #cf6565;
+$color-secondary: #ffbb21;
+$color-white: #ffffff;
+$color-black: #000000;
+
+@font-face {
+  font-family: 'Monsterrat Medium';
+  src: url('../fonts/Montserrat-Medium.ttf');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Monsterrat Bold';
+  src: url('../fonts/Montserrat-Bold.ttf');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Monsterrat SemiBold';
+  src: url('../fonts/Montserrat-SemiBold.ttf');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Monsterrat ExtraBold';
+  src: url('../fonts/Montserrat-ExtraBold.ttf');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Monsterrat Light';
+  src: url('../fonts/Montserrat-Light.ttf');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Monsterrat Regular';
+  src: url('../fonts/Montserrat-Light.ttf');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+$font-family-medium: 'Monsterrat Medium', sans-serif;
+$font-family-bold: 'Monsterrat Bold', sans-serif;
+$font-family-semi-bold: 'Monsterrat SemiBold', sans-serif;
+$font-family-extra-bold: 'Monsterrat ExtraBold', sans-serif;
+$font-family-light: 'Monsterrat Light', sans-serif;
+$font-family-regular: 'Monsterrat Regular', sans-serif;
